@@ -1,0 +1,7 @@
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\bin\Debug\Square Every Digit.exe.config
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\bin\Debug\Square Every Digit.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\bin\Debug\Square Every Digit.pdb
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\obj\Debug\Square Every Digit.csproj.AssemblyReference.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\obj\Debug\Square Every Digit.csproj.CoreCompileInputs.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\obj\Debug\Square Every Digit.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Square Every Digit\obj\Debug\Square Every Digit.pdb
